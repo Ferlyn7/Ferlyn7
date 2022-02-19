@@ -2,7 +2,7 @@
 
 
 
-### Hi there 👋
+### Que rollo! 👋
 
 - 🔭 Solamente me dedico a estudiar...
 - 🌱 Actualmente me concentro unicamente en mi persona...
