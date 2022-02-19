@@ -8,7 +8,8 @@
 - 📌 PFLC
 - 👯 Espero conocer grandes amistades
 - 😄 Me puedes decir "Fer"
- ㅤ
+
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 - 📅 Horario semanal de la clase "Mantenimiento y Redes de Computo"
 
 ㅤ
