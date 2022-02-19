@@ -3,18 +3,15 @@
 
 
 ### Que rollo! 👋
-
-- 🔭 Solamente me dedico a estudiar...
-- 🌱 Actualmente me concentro unicamente en mi persona...
-- 👯 Espero conocer grandes amistades...
-- 💬 No tengo temas de interes especificos, pero podemos platicar sobre lo que sea...
-- 📫 Encuentrame en IG como: @fxrlynn o si prefieres en TW: @fxrlynn...
-- 😄 Me puedes decir "Fer" ...
-- ⚡ Actualmente no tengo muchos medios de distraccion (entretenimiento)...
-
+ㅤ
+- 🔭 Solamente me dedico a estudiar
+- 📌 PFLC
+- 👯 Espero conocer grandes amistades
+- 😄 Me puedes decir "Fer"
+ ㅤ
 - 📅 Horario semanal de la clase "Mantenimiento y Redes de Computo"
 
-
+ㅤ
 | Dia de Clases |    Lunes    |    Martes   |    Jueves   |
 |:-------------:|:-----------:|:-----------:|:-----------:|
 |     Hora      | 7:00 - 8:45 | 8:50 - 9:40 | 8:50 - 9:40 |
