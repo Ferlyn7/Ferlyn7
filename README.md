@@ -3,8 +3,10 @@
 
 
 ### Que rolloo!! 👋
-- 📌 PFLC
- ㅤㅤㅤ
+- 📌 Actualmente cursando mi 4to semestre en la **PFLC**
+- 📬 **@fxrlynn** en la mayoria de mis redes sociales
+- 💼 Capacitacion de **TICS**
+- 
 
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ📅 **Horario Semanal de mis Clases**
 
