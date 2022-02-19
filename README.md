@@ -13,10 +13,10 @@
 - ⚡ Actualmente no tengo muchos medios de distraccion (entretenimiento)...
 
 \begin{table}[]
-\begin{tabular}{lllll}
-\multicolumn{1}{c}{Dia de Clases} & \multicolumn{1}{c}{\textbf{Lunes}} & \multicolumn{1}{c}{\textbf{Martes}} & \multicolumn{1}{c}{\textbf{Jueves}} &  \\
-\multicolumn{1}{c}{Hora}          & 7:00 - 8:45                        & 8:50 - 9:40                         & 8:50 - 9:40                         &  \\
-                                  &                                    &                                     &                                     &  \\
-                                  &                                    &                                     &                                     & 
+\begin{tabular}{clll}
+Dia de Clases & \multicolumn{1}{c}{\textbf{Lunes}} & \multicolumn{1}{c}{\textbf{Martes}} & \multicolumn{1}{c}{\textbf{Jueves}} \\
+Hora          & 7:00 - 8:45                        & 8:50 - 9:40                         & 8:50 - 9:40                        
 \end{tabular}
+\caption{}
+\label{tab:my-table}
 \end{table}
