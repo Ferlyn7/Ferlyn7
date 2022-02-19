@@ -6,7 +6,7 @@
 - 📌 Actualmente cursando mi 4to semestre en la **PFLC**
 - 📬 **@fxrlynn** en la mayoria de mis redes sociales
 - 💼 Capacitacion de **TICS**
-- 
+- linkr.bio/ferlynn
 
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ📅 **Horario Semanal de mis Clases**
 
