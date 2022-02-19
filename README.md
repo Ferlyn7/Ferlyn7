@@ -6,7 +6,7 @@
 - 📌 PFLC
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 
-📅 Horario Semanal de mis Clases
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ📅 **Horario Semanal de mis Clases**
 
 ㅤ
 |        Hora/Día        |             **Lunes**            |            **Martes**            |     **Miércoles**     |            **Jueves**            | **Viernes** |
