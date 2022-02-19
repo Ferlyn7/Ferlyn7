@@ -12,11 +12,11 @@
 ㅤ
 |        Hora/Día        |             **Lunes**            |            **Martes**            |     **Miércoles**     |            **Jueves**            | **Viernes** |
 |:----------------------:|:--------------------------------:|:--------------------------------:|:---------------------:|:--------------------------------:|:-----------:|
-| 7:00-7:50              | Mantenimiento y redes de cómputo |              Física              |    Educación Física   |               Artes              |   Biología  |
-| 7:55-8:45              | Mantenimiento y redes de cómputo |             Biología             |      Matemáticas      |            Literatura            |    Física   |
-| 8:50-9:40              |            Literatura            | Mantenimiento y redes de cómputo |         Física        | Mantenimiento y redes de cómputo | Matemáticas |
+| 7:00-7:50              | Mantenimiento y Redes de Cómputo |              Física              |    Educación Física   |               Artes              |   Biología  |
+| 7:55-8:45              | Mantenimiento y Redes de Cómputo |             Biología             |      Matemáticas      |            Literatura            |    Física   |
+| 8:50-9:40              |            Literatura            | Mantenimiento y Redes de Cómputo |         Física        | Mantenimiento y Redes de Cómputo | Matemáticas |
 | 9:45-10:35             |             Biología             |             Historia             |        Biología       |             Historia             | Literatura  |
 | **RECESO 10:35-11:05** |                                  |                                  |                       |                                  |             |
 | 11:05-11:55            |              Física              |            Matemáticas           |         Inglés        |              Inglés              | Historia    |
-| 12:00-12:50            |            Matemáticas           |              Inglés              | Comunidades virtuales |              Física              |             |
-| 12:55-13:45            |                                  |       Comunidades virtuales      | Comunidades virtuales |            Matemáticas           |           
+| 12:00-12:50            |            Matemáticas           |              Inglés              | Comunidades Virtuales |              Física              |             |
+| 12:55-13:45            |                                  |       Comunidades Virtuales      | Comunidades Virtuales |            Matemáticas           |           
