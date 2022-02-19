@@ -12,6 +12,8 @@
 - 😄 Me puedes decir "Fer" ...
 - ⚡ Actualmente no tengo muchos medios de distraccion (entretenimiento)...
 
+- 📅 Horario semanal de la clase "Mantenimiento y Redes de Computo"
+
 | Dia de Clases |    Lunes    |    Martes   |    Jueves   |
 |:-------------:|:-----------:|:-----------:|:-----------:|
 |     Hora      | 7:00 - 8:45 | 8:50 - 9:40 | 8:50 - 9:40 |
