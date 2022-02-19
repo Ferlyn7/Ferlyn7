@@ -4,11 +4,7 @@
 
 ### Que rollo! 👋
 ㅤ
-- 🔭 Solamente me dedico a estudiar
 - 📌 PFLC
-- 👯 Espero conocer grandes amistades
-- 😄 Me puedes decir "Fer"
-
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 - 📅 Horario semanal de la clase "Mantenimiento y Redes de Computo"
 
