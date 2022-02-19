@@ -2,7 +2,7 @@
 
 
 
-ㅤㅤㅤㅤㅤㅤ### Que rolloo!! 👋
+### Que rolloo!! 👋
 - 📌 Actualmente cursando mi 4to semestre en la **PFLC**
 - 📬 **@fxrlynn** en la mayoria de mis redes sociales
 - 💼 Capacitacion de **TICS**
