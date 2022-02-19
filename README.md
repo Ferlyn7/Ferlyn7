@@ -4,10 +4,6 @@
 
 ### Hi there 👋
 
-<!--
-**Ferlyn7/Ferlyn7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 - 🔭 Solamente me dedico a estudiar...
 - 🌱 Actualmente me concentro unicamente en mi persona...
 - 👯 Espero conocer grandes amistades...
