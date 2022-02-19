@@ -2,10 +2,10 @@
 
 
 
-### Que rollo! 👋
+### Que rolloo!! 👋
 ㅤ
 - 📌 PFLC
-ㅤㅤㅤㅤ
+- 🧸 @fxrlynn ㅤㅤ
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 
 📅 Horario semanal de la clase "Mantenimiento y Redes de Computo"
