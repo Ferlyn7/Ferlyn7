@@ -7,7 +7,8 @@
 - 📌 PFLC
 ㅤㅤㅤㅤ
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
-- 📅 Horario semanal de la clase "Mantenimiento y Redes de Computo"
+
+📅 Horario semanal de la clase "Mantenimiento y Redes de Computo"
 
 ㅤ
 | Dia de Clases |    Lunes    |    Martes   |    Jueves   |
